@@ -5,6 +5,6 @@ I recently passed my Security+ (without any experience, with pure self-study, an
 >
 >I am no expert. I will be linking the videos and the chapters that I have referred to along with my own explanation. All the credits go to the respective authors. And of course, there is no profit involved in this little project.
 
-<a href="https://www.flaticon.com/free-icons/error" title="error icons">Error icons created by Gregor Cresnar - Flaticon</a>
+<div> Icons made by <a href="https://www.flaticon.com/authors/gregor-cresnar" title="Gregor Cresnar"> Gregor Cresnar </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
 
 
