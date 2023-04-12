@@ -1,5 +1,5 @@
 # Security+
-I recently passed my Security+ (without any experience, with pure self-study, and a razzle-dazzle of procrastination). Since I don't want to lose the precious information I have gathered why not add the information somewhere it can be accessed easily? Plus, it will help me retain the information. In case you have come across this repo, feel free to edit it, make changes or just learn from it! 
+I recently passed my Security+ (without any experience, with self-study, and a razzle-dazzle of procrastination). Since I don't want to lose the precious information I have learned why not add my notes somewhere it can be accessed easily? Plus, it will help me retain the information. In case you have come across this repo, feel free to edit it, make changes or just learn from it! 
 
 ><img src="https://securityplusrepo.s3.eu-north-1.amazonaws.com/warning.png" width=100px>
 >
